@@ -8,6 +8,10 @@ Funkcionalnosti: mogućnost prodaje i kupnje knjiga, pretraga knjiga po žanrovi
 ### Autor
 Nikolina Krce
 
+### Prototip aplikacije
+
+Figma: https://www.figma.com/proto/lmGkKHSMdcC1qqXkKKsthv/ReadRevend?type=design&node-id=1101-60&t=FaJ4uEcOhjWWZF02-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A156
+
 ### Javni link na aplikaciju
 
 Web: https://netlify... (dodat će se kasnije)
